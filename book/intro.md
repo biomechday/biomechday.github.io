@@ -1,4 +1,3 @@
-(intro)=
 # Welcome to our public repository of scientific lessions
 
 % _This is the first page the student will see when opening the url._
