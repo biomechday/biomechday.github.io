@@ -6,10 +6,10 @@ parts:
     chapters:
     - file: Cardiovascular/overview.md
       sections:
-      - file: Computational Fluid Dynamics/overview.md
-      - file: Fluid Mechanics/overview.md
-      - file: Medical Imaging/overview.md
-      - file: Sensors/overview.md
+      - file: Cardiovascular/Computational Fluid Dynamics/overview.md
+      - file: Cardiovascular/Fluid Mechanics/overview.md
+      - file: Cardiovascular/Medical Imaging/overview.md
+      - file: Cardiovascular/Sensors/overview.md
     - file: Human locomotion/overview.md
     - file: Robotics/overview.md
     - file: Skeletal system/overview.md
