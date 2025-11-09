@@ -5,17 +5,9 @@ parts:
   - caption: Contents
     chapters:
     - file: Cardiovascular/overview.md
-      sections:
-      - file: exercises/001.md
     - file: Human locomotion/overview.md
-      sections:
-      - file: exercises/001.md
     - file: Robotics/overview.md
-      sections:
-      - file: exercises/001.md
     - file: Skeletal system/overview.md
-      sections:
-      - file: exercises/001.md
     - file: exercises.md
       sections:
       - file: exercises/001.md
