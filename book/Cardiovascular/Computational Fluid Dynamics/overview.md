@@ -19,8 +19,7 @@
 
 ### Lesson powerpoint
 
-<embed src="https://raw.githubusercontent.com/biomechday/biomechday.github.io/main/book/Cardiovascular/Computational%20Fluid%20Dynamics/cfd_lesson.pdf" width="500" height="375" 
- type="application/pdf">
+<iframe src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/biomechday/biomechday.github.io/main/book/Cardiovascular/Computational%20Fluid%20Dynamics/cfd_lesson.pdf&amp;embedded=true" width="600" height="500" style="border:none;"></iframe>
 
 ### Computer files for Tutorial
 test
