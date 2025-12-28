@@ -1,6 +1,4 @@
-## Computational Fluid Dynamics (CFD)
-
-table about the lesson
+# Computational Fluid Dynamics (CFD)
 
 | Category              | Details           |
 |-----------------------|-------------------|
@@ -13,16 +11,22 @@ table about the lesson
 | 🖨️ Printable Material    | ✅          |
 
 
+## Lesson structure
+
+
+
+## Files
+
 ### Lesson powerpoint
 
 <embed src="https://raw.githubusercontent.com/biomechday/biomechday.github.io/main/book/Cardiovascular/Computational%20Fluid%20Dynamics/cfd_lesson.pdf" width="500" height="375" 
  type="application/pdf">
 
-## Computer files for Tutorial
+### Computer files for Tutorial
 test
 
-## Download instructions for ParaView
+### Download instructions for ParaView
 test
 
-## Printable Worksheet files
+### Printable Worksheet files
 test
