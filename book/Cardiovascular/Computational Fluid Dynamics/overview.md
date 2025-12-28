@@ -19,10 +19,7 @@
 
 ### Lesson powerpoint
 
-<a 
-  href="https://raw.githubusercontent.com/biomechday/biomechday.github.io/main/book/Cardiovascular/    Computational%20Fluid%20Dynamics/c.pdf
-    Download CFD Lesson PDF
-</a>
+<a href="https://raw.githubusercontent.com/biomechday/biomechday.github.io/main/book/Cardiovascular/Computational%20Fluid%20cfd_lesson.pdfDownload CFD Lesson PDF</a>
 
 <iframe src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/biomechday/biomechday.github.io/main/book/Cardiovascular/Computational%20Fluid%20Dynamics/cfd_lesson.pdf&amp;embedded=true" width="600" height="500" style="border:none;"></iframe>
 
