@@ -20,15 +20,12 @@ It starts with a 20 minute powerpoint lesson that covers the aforementioned topi
 The computer exercise requires access to Windows or Mac computers, ideally with windows 10 software or newer. A free, open source software called **ParaView** is required to view the data for the exercise. The exercise files are linked on this page.
 
 ## Lesson structure
-```mermaid
-timeline
-    title Structure
-    download ParaView software & print lesson files : Before session
-    PowerPoint presentation : 15-20 minutes
-    Computer setup : 5–10 minutes
-    Interactive computer session : 30–45 minutes
-    Wrap-up : 5 minutes
-```
+- download ParaView software & print lesson files (before session)
+- PowerPoint presentation (15-20 minutes)
+- Computer setup (5–10 minutes)
+- Interactive computer session (30–45 minutes)
+- Wrap-up (5 minutes)
+
 
 ## Computer requirements
 
@@ -37,6 +34,7 @@ timeline
 | Operating System | Windows 10 or newer, MacOS 11 or newer   |
 | Storage          | 64 GB                                    |
 | RAM              | 8 GB, ideally 16+ GB                     |
+| Software         | [ParaView](https://www.paraview.org/download/) (v6, v5, or v4). Older versions work best for older computers|
 
 ## Files
 
