@@ -69,7 +69,7 @@ The computer exercise requires access to Windows or Mac computers, ideally with 
 ---
 
 ### Download instructions for ParaView
-<a href="https://raw.githubusercontent.com/biomechday/biomechday.github.io/blob/main/book/Cardiovascular/Computational Fluid Dynamics/paraview-download.pdf" download>Instructions for downloading Paraview software</a>
+<a href="https://raw.githubusercontent.com/biomechday/biomechday.github.io/blob/main/book/Cardiovascular/Computational Fluid Dynamics/paraview-download.pdf" download>Download instructions for installing Paraview software</a>
 
 <iframe src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/biomechday/biomechday.github.io/main/book/Cardiovascular/Computational%20Fluid%20Dynamics/paraview-download.pdf&amp;embedded=true" width="800" height="450" style="border:none;"></iframe>
 
@@ -78,7 +78,7 @@ The computer exercise requires access to Windows or Mac computers, ideally with 
 ### Printable Worksheet files
 <a href="https://raw.githubusercontent.com/biomechday/biomechday.github.io/blob/main/book/Cardiovascular/Computational Fluid Dynamics/Paraview_worksheet.pdf" download>Downloading worksheet software</a>
 
-<a href="https://raw.githubusercontent.com/biomechday/biomechday.github.io/blob/main/book/Cardiovascular/Computational Fluid Dynamics/cheatsheet-paraview-streamlines.pdf" download>Instructions for using ParaView software</a>
+<a href="https://raw.githubusercontent.com/biomechday/biomechday.github.io/blob/main/book/Cardiovascular/Computational Fluid Dynamics/cheatsheet-paraview-streamlines.pdf" download>Download worksheet</a>
 
 <iframe src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/biomechday/biomechday.github.io/main/book/Cardiovascular/Computational%20Fluid%20Dynamics/Paraview_worksheet.pdf&amp;embedded=true" width="800" height="450" style="border:none;"></iframe>
 
