@@ -21,15 +21,13 @@
 ---
 
 ## Lesson Structure
-```mermaid
-timeline
-    title Lesson Timeline
-    [Preparation Step] : Before session
-    [Intro/Presentation] : [Duration]
-    [Transition/Setup] : [Duration]
-    [Main Activity] : [Duration]
-    [Wrap-up] : [Duration]
-```
+**Before session**
+- preparation
+**During session**
+- Introduction (duration)
+- Transition / Setup (duration)
+- Main Activities (duration)
+- Wrap-up (duration)
 
 ---
 
@@ -60,26 +58,33 @@ timeline
 
 ## Files
 
-### Lesson Slides
+### Lesson Plan (if applicable)
 [Link to download slides]
 
 [Embed viewer iframe for slides]
 
 ---
 
-### Tutorial Files
+### Lesson Slides (if applicable)
+[Link to download slides]
+
+[Embed viewer iframe for slides]
+
+---
+
+### Tutorial Files (if applicable)
 [Link to download tutorial files]
 
 ---
 
-### Software Instructions
+### Software Instructions (if applicable)
 [Link to download instructions]
 
 [Embed viewer iframe for instructions]
 
 ---
 
-### Printable Worksheets
+### Printable Worksheets (if applicable)
 [Link to download worksheets]
 
 [Embed viewer iframe for worksheets]
