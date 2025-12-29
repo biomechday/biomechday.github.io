@@ -29,17 +29,10 @@ This lesson covers topics in fluid mechanics and how it is applied to understand
 
 ## Files
 
-### Lesson plan
-
-<a href="https://raw.githubusercontent.com/biomechday/biomechday.github.io/main/book/Cardiovascular/Computational%20Fluid%20lesson_plan.pdf" download>Download lesson plan</a>
-
-<iframe src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/biomechday/biomechday.github.io/main/book/Cardiovascular/Computational%20Fluid%20Dynamics/lesson_plan.pdf&amp;embedded=true" width="800" height="450" style="border:none;"></iframe>
-
----
 
 ### Lesson powerpoint
 
-<a href="https://raw.githubusercontent.com/biomechday/biomechday.github.io/main/book/Cardiovascular/Computational%20Fluid%20cfd_lesson.pdf" download>Download slides</a>
+<a href="https://docs.google.com/presentation/d/1tTBIJjanU67Rzu2Tk1iIvBwd2evu53FH/edit?usp=sharing&ouid=118083458277764683959&rtpof=true&sd=true" download>Download slides</a>
 
-<iframe src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/biomechday/biomechday.github.io/main/book/Cardiovascular/Computational%20Fluid%20Dynamics/cfd_lesson.pdf&amp;embedded=true" width="800" height="450" style="border:none;"></iframe>
+<iframe src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/biomechday/biomechday.github.io/blob/main/book/Cardiovascular/Fluid%20Mechanics/cardiovascular%20fluid%20mechanics%20lesson.pdf&amp;embedded=true" width="800" height="450" style="border:none;"></iframe>
 ok/Cardiovascular/Computational%20Fluid%20Dynamics/cheatsheet-paraview-streamlines.pdf&amp;embedded=true" width="800" height="450" style="border:none;"></iframe>
