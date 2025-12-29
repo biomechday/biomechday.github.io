@@ -38,7 +38,7 @@ The computer exercise requires access to Windows or Mac computers, ideally with 
 | Category              | Details           |
 |-----------------------|-------------------|
 | Operating System | Windows 10 or newer, MacOS 11 or newer   |
-| Storage          | 64 GB                                    |
+| Storage          | 64 GB or greater                         |
 | RAM              | 8 GB, ideally 16+ GB                     |
 | Software         | [ParaView](https://www.paraview.org/download/) (v6, v5, or v4). Older versions work best for older computers|
 
