@@ -1,11 +1,9 @@
 # Changelog
 
-## `<latest version>`: `<date>`
-- `<Added/modified/deleted>` [](`<relative link to changed file>`)
-- ...
-- Full Changelog: `[<previous version>...<current version>](<link to diff as provided by GitHub>)`
+## `<V0.1>`: `Dec 28, 2025`
+- `<Added first lesson> CFD`
 
-## `<previous version>`: <...>
+## `<V0.0>`: 'Jul 2025'
 - <...>
 
 <...>
