@@ -8,6 +8,7 @@
 | 💻 Computer Use          | ✅          |
 | 🖨️ Printable Material    | ✅          |
 
+![Alt Text](https://raw.githubusercontent.com/biomechday/biomechday.github.io/blob/main/book/Cardiovascular/Computational%20Fluid%20Dynamics/simulation.gif)
 
 ## Lesson Overview
 This lesson covers topics in fluid mechanics, CFD, and applying these topics to treat cardiovascular diseases. The lesson provides background knowledge on these topics, and an exercise that engages students by reviewing computer data from cardiovascular CFD simulations.
