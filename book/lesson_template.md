@@ -23,6 +23,7 @@
 ## Lesson Structure
 **Before session**
 - preparation
+
 **During session**
 - Introduction (duration)
 - Transition / Setup (duration)
