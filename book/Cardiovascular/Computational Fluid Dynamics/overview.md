@@ -19,7 +19,9 @@ It starts with a 20 minute powerpoint lesson that covers the aforementioned topi
 The computer exercise requires access to Windows or Mac computers, ideally with windows 10 software or newer. A free, open source software called **ParaView** is required to view the data for the exercise. The exercise files are linked on this page.
 
 ## Lesson structure
-- download ParaView software & print lesson files (before session)
+**Before session**
+- download ParaView software & print lesson files
+**During session**
 - PowerPoint presentation (15-20 minutes)
 - Computer setup (5–10 minutes)
 - Interactive computer session (30–45 minutes)
