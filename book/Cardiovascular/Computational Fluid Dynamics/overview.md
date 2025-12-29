@@ -25,6 +25,7 @@ The computer exercise requires access to Windows or Mac computers, ideally with 
 ## Lesson structure
 **Before session**
 - download ParaView software & print lesson files
+
 **During session**
 - PowerPoint presentation (15-20 minutes)
 - Computer setup (5–10 minutes)
