@@ -63,7 +63,7 @@ The computer exercise requires access to Windows or Mac computers, ideally with 
 ---
 
 ### Imaging Tutorial Files
-<a href="https://raw.githubusercontent.com/biomechday/biomechday.github.io/main/book/Cardiovascular/Medical%20Imaging/imaging-exercise.pdf" download>Download slides</a>
+<a href="https://raw.githubusercontent.com/biomechday/biomechday.github.io/main/book/Cardiovascular/Medical%20Imaging/imaging-exercise.pdf" download>Download SimVascular tutorial</a>
 
 <iframe src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/biomechday/biomechday.github.io/main/book/Cardiovascular/Medical%20Imaging/imaging-exercise.pdf&amp;embedded=true" width="800" height="450" style="border:none;"></iframe>
 
