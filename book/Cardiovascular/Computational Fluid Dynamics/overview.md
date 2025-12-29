@@ -5,9 +5,7 @@
 | 👥 Appropriate Audience | Grades 9-12  |
 | ⏱️ Lesson Time          | 1 hour       |
 | 👨‍🎓 Number of Students   | 10 to 25     |
-| 🛠️ Hands-on Exercises    | ❌          |
 | 💻 Computer Use          | ✅          |
-| 📦 Physical Material     | ❌          |
 | 🖨️ Printable Material    | ✅          |
 
 
