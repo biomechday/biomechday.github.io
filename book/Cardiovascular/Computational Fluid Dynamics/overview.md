@@ -8,7 +8,7 @@
 | 💻 Computer Use          | ✅          |
 | 🖨️ Printable Material    | ✅          |
 
-![Alt Text](./simulation.gif)
+![Alt Text](./sim1.gif)
 
 ---
 
