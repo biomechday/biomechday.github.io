@@ -57,7 +57,7 @@ The computer exercise requires access to Windows or Mac computers, ideally with 
 
 ### Lesson powerpoint
 
-<a href="https://raw.githubusercontent.com/biomechday/biomechday.github.io/main/book/Cardiovascular/Computational%20Fluid%20cfd_lesson.pdf" download>Download slides</a>
+<a href="https://docs.google.com/presentation/d/1q3FiZclbL9HIucocCf_BBrnfR9r0eX2x/edit?usp=sharing&ouid=118083458277764683959&rtpof=true&sd=true" download>Download slides</a>
 
 <iframe src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/biomechday/biomechday.github.io/main/book/Cardiovascular/Computational%20Fluid%20Dynamics/cfd_lesson.pdf&amp;embedded=true" width="800" height="450" style="border:none;"></iframe>
 
