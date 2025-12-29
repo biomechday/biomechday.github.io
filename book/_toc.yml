@@ -7,7 +7,7 @@ parts:
     - file: Cardiovascular/overview.md
       sections:
       - file: Cardiovascular/Computational Fluid Dynamics/overview.md
-      # - file: Cardiovascular/Fluid Mechanics/overview.md
+      - file: Cardiovascular/Fluid Mechanics/overview.md
       - file: Cardiovascular/Medical Imaging/overview.md
       - file: Cardiovascular/Sensors/overview.md
     - file: Human locomotion/overview.md
