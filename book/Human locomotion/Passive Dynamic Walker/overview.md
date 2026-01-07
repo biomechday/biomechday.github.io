@@ -1,5 +1,5 @@
 
-# [Lesson Title]
+# Passive Dynamic Walker
 
 | Category              | Details           |
 |-----------------------|-------------------|
@@ -9,11 +9,25 @@
 | 🛠️ Hands-on Exercises    |  ✅  |
 | 📦 Physical Material     |  ✅  |
 
+![Alt Text](./sim1.gif)
 
 ---
 
 ## Lesson Overview
-[Brief description of the lesson, objectives, and learning outcomes.]
+
+Research suggests that humans have been walking on two legs for at least 3 million years [link](https://humanorigins.si.edu/human-characteristics/walking-upright). Before bicycles, cars, and airplanes, walking was humankind's original mode of transport. But while walking is something that seems to come second nature to us, walking is actually a quite complicated motion. It requires coordination between the nervous (brain, spine, nerves) and muscular (muscles and bones to which they attach) systems to take each step while simultaneously balancing to prevent falling over. 
+
+In this lesson, we will explore the science of walking through a hands on lesson where students build their own Passive Dynamic Walkers and perform experiments with them. The lesson is structured as follows:
+- Introduction to locomotion, walking, and their broader implications in robotics and medicine (5 - 10 minutes)
+- Build your walker (5 - 15 minutes)
+- Experiments (15 - 25 minutes)
+- Discussion and Wrap-Up (10 minutes)
+
+You might be asking: What are Passive Dynamic Walkers? 
+
+Passive: The walker does not need an actuator (e.g. a piston or electric motor) to move
+Dynamic: The opposite of static. That is, it moves!
+Walker: Something that ... walks!
 
 ---
 
@@ -29,16 +43,6 @@
 
 ---
 
-## Computer Requirements (if applicable)
-
-| Category              | Details           |
-|-----------------------|-------------------|
-| Operating System | [OS requirements] |
-| Storage          | [Minimum storage] |
-| RAM              | [Minimum RAM] |
-| Software         | [Required software, e.g., CAD tools, simulation software] |
-
----
 
 ## Hands-on Materials (if applicable)
 | Item                | Quantity | Estimated Cost |
@@ -83,7 +87,9 @@
 ---
 
 ### Printable Worksheets (if applicable)
-[Link to download worksheets]
 
-[Embed viewer iframe for worksheets]
+<a href="https://raw.githubusercontent.com/biomechday/biomechday.github.io/blob/main/book/Cardiovascular/Computational Fluid Dynamics/Paraview_worksheet.pdf" download>Downloading worksheet software</a>
+
+<iframe src=./PassiveDynamicWalker_LessonPlan.pdf width="800" height="450" style="border:none;"></iframe>
+
 ``
