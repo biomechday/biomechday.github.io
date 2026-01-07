@@ -11,6 +11,8 @@ parts:
       - file: Cardiovascular/Medical Imaging/overview.md
       - file: Cardiovascular/Sensors/overview.md
     - file: Human locomotion/overview.md
+      sections:
+      - file: Human locomotion/Passive Dynamic Walker/overview.md
     - file: Robotics/overview.md
     # - file: Skeletal system/overview.md
     # - file: exercises.md
