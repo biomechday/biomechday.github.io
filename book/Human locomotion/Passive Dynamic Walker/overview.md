@@ -88,7 +88,9 @@ Walker: Something that ... walks!
 
 ### Printable Worksheets (if applicable)
 
-<a href="https://raw.githubusercontent.com/biomechday/biomechday.github.io/blob/main/book/Cardiovascular/Computational Fluid Dynamics/Paraview_worksheet.pdf" download>Downloading worksheet software</a>
+<a href=./PassiveDynamicWalker_LessonPlan.pdf class="btn btn-primary">
+    <i class="fas fa-download"></i> Download worksheet
+</a>
 
 <iframe src=./PassiveDynamicWalker_LessonPlan.pdf width="800" height="450" style="border:none;"></iframe>
 
