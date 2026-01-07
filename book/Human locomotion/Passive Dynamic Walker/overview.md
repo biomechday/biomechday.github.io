@@ -55,7 +55,6 @@ If you need to print the CAD files, you can download them here. The .stl files a
     <i class="fas fa-download"></i> Download CAD Files
 </a>
 
-<iframe src="//sharecad.org/cadframe/load?url=./PassiveDynamicWalker.STL" scrolling="no"></iframe>
 
 ---
 
