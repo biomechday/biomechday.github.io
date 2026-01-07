@@ -6,12 +6,9 @@
 | 👥 Appropriate Audience | Grades 9-12 |
 | ⏱️ Lesson Time          | 1 hour |
 | 👨‍🎓 Number of Students   | 10-20 |
-| 🛠️ Hands-on Exercises    | [Yes] |
-| 💻 Computer Use          | [No] |
-| 📦 Physical Material     | [Yes] |
-| 🖨️ Printable Material    | [No] |
-| 🏗️ CAD Files Required     | [No] |
-| 🛒 Materials to Purchase  | [No] |
+| 🛠️ Hands-on Exercises    |  ✅  |
+| 📦 Physical Material     |  ✅  |
+
 
 ---
 
