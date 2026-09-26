@@ -2,7 +2,18 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: Contents
+  - caption: National Biomechanics Day
+    chapters:
+    - file: intro.md
+      title: Home
+    - file: lessons.md
+      title: Free Lessons
+    - file: gallery.md
+      title: Photo Gallery
+    - file: board.md
+      title: Board & Faculty
+
+  - caption: Lesson Topics
     chapters:
     - file: Cardiovascular/overview.md
       sections:

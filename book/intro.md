@@ -1,26 +1,25 @@
-# Welcome to our public repository of scientific lessions!
+# National Biomechanics Day at CMU
 
-National Biomechanics Day at Carnegie Mellon University (CMU) is a student-led organization, aiming to provide scientific outreach opportunities and tools to a broader community. This site provides access to several biomechanics lessions we have offered in the past. These lessons are appropriate for a general K-12 audience, but is best suited for students grades 7 and above.  
+## Bringing biomechanics to the community
 
-The contents of this repository is structured by the broad category that lessons fit into, such as:
+National Biomechanics Day at Carnegie Mellon University is a student-led outreach organization that helps young people explore how the human body moves, adapts, and works. We connect students, educators, and researchers through approachable demonstrations, hands-on activities, and open educational resources.
 
-1. Cardiovascular system
-2. Human locomotion
+Our goal is simple: make biomechanics welcoming, practical, and accessible to schools and community groups.
 
-Within each category there may be several lessons. In each lesson, we provide include all the resources required to teach the content and reproduce any devices/learning tools involved. This includes 3D printed CAD files, code/software, as well as a list of materials to purchase. Our goal is to ensure that teaching materials are low-cost and accessible.
+## What we do
 
-Each lesson contains details regarding its contents and intended audience, as shown here:
+- Host outreach events and classroom visits around National Biomechanics Day.
+- Share low-cost, hands-on activities for K-12 learners and educators.
+- Build connections between students and the biomechanics community at CMU.
+- Publish reusable teaching materials so educators can run activities independently.
 
-| Category              | Details           |
-|-----------------------|-------------------|
-| 👥 Appropriate Audience | (e.g., Grades 9-12, Grades 6-8) |
-| ⏱️ Lesson Time          | (e.g., 1 hour)  |
-| 👨‍🎓 Number of Students   | (e.g., 20)      |
-| 🛠️ Hands-on Exercises    | ✅ / ❌          |
-| 💻 Computer Use          | ✅ / ❌          |
-| 📦 Physical Materials    | ✅ / ❌          |
-| 🖨️ Printable Material    | ✅ / ❌          |
+## Events
 
+We share event dates and registration details here as they are confirmed. To ask about an upcoming event, request a classroom visit, or partner with the club, email [biomechday@andrew.cmu.edu](mailto:biomechday@andrew.cmu.edu).
 
+## Explore the site
 
-If you have any questions, please email us at biomechday@andrew.cmu.edu
+- **[Free Lessons](lessons.md)**: Browse open biomechanics lessons for educators, students, and curious learners. Activities are generally designed for grades 7 and above, with the intended audience and materials listed within each lesson.
+- **[Board & Faculty](board.md)**: Meet the students, faculty, and advisors who help organize the program.
+
+All lesson materials are shared under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/), unless a page says otherwise.
