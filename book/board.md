@@ -4,14 +4,14 @@ National Biomechanics Day at CMU is organized by students with support from facu
 
 ## Student board
 
-Replace the entries below with the current board members and their preferred titles.
+Our current board members are pictured below. Photos are listed in the order provided by the NBD team.
 
-| Role | Name | Area or program |
+|  |  |  |
 |---|---|---|
-| President | _Add name_ | _Add department or program_ |
-| Vice President | _Add name_ | _Add department or program_ |
-| Outreach Coordinator | _Add name_ | _Add department or program_ |
-| Education Coordinator | _Add name_ | _Add department or program_ |
+| ![Arnav Garcha](<Photos_Board_Faculty/Screenshot 2026-09-26 at 3.42.02 PM.png>) | ![Anna Iacocca](<Photos_Board_Faculty/Screenshot 2026-09-26 at 3.42.06 PM.png>) | ![Faeze Jahani](<Photos_Board_Faculty/Screenshot 2026-09-26 at 3.42.14 PM.png>) |
+| **Arnav Garcha** | **Anna Iacocca** | **Faeze Jahani** |
+| ![Ravesh Sukhnandan](<Photos_Board_Faculty/Screenshot 2026-09-26 at 3.42.18 PM.png>) | ![Jon Ibinson](<Photos_Board_Faculty/Screenshot 2026-09-26 at 3.42.23 PM.png>) | ![Maria Tagliaferri](<Photos_Board_Faculty/Screenshot 2026-09-26 at 3.42.27 PM.png>) |
+| **Ravesh Sukhnandan** | **Jon Ibinson** | **Maria Tagliaferri** |
 
 ## Faculty and advisors
 
