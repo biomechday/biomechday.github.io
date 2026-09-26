@@ -8,9 +8,9 @@ Our current board members are pictured below. Photos are listed in the order pro
 
 |  |  |  |
 |---|---|---|
-| ![Arnav Garcha](<Photos_Board_Faculty/Screenshot 2026-09-26 at 3.42.02 PM.png>) | ![Anna Iacocca](<Photos_Board_Faculty/Screenshot 2026-09-26 at 3.42.06 PM.png>) | ![Faeze Jahani](<Photos_Board_Faculty/Screenshot 2026-09-26 at 3.42.14 PM.png>) |
+| ![Arnav Garcha](Photos_Board_Faculty/arnav-garcha.png) | ![Anna Iacocca](Photos_Board_Faculty/anna-iacocca.png) | ![Faeze Jahani](Photos_Board_Faculty/faeze-jahani.png) |
 | **Arnav Garcha** | **Anna Iacocca** | **Faeze Jahani** |
-| ![Ravesh Sukhnandan](<Photos_Board_Faculty/Screenshot 2026-09-26 at 3.42.18 PM.png>) | ![Jon Ibinson](<Photos_Board_Faculty/Screenshot 2026-09-26 at 3.42.23 PM.png>) | ![Maria Tagliaferri](<Photos_Board_Faculty/Screenshot 2026-09-26 at 3.42.27 PM.png>) |
+| ![Ravesh Sukhnandan](Photos_Board_Faculty/ravesh-sukhnandan.png) | ![Jon Ibinson](Photos_Board_Faculty/jon-ibinson.png) | ![Maria Tagliaferri](Photos_Board_Faculty/maria-tagliaferri.png) |
 | **Ravesh Sukhnandan** | **Jon Ibinson** | **Maria Tagliaferri** |
 
 ## Faculty and advisors
